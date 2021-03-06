@@ -7,8 +7,3 @@
 
 > --------------------------------------------------------------------------------------------------- 
 
-
-### Linguagens de Programação
-
-<image src="https://user-images.githubusercontent.com/73145224/110207523-bf852180-7e62-11eb-9569-071d7649dc6f.png" width="40" height="40">, [![HTML](https://emoji.gg/assets/emoji/HTML.png)](https://emoji.gg/emoji/HTML), [![css](https://emoji.gg/assets/emoji/css.png)](https://emoji.gg/emoji/css), [![java_scribbled](https://emoji.gg/assets/emoji/9941_java_scribbled.png)](https://emoji.gg/emoji/9941_java_scribbled), [![JS_thonk](https://emoji.gg/assets/emoji/5604_JS_thonk.png)](https://emoji.gg/emoji/5604_JS_thonk), [![MySQL](https://emoji.gg/assets/emoji/3046_MySQL.png)](https://emoji.gg/emoji/3046_MySQL), [![photoshop_cc](https://emoji.gg/assets/emoji/5712_photoshop_cc.png)](https://emoji.gg/emoji/5712_photoshop_cc), 
-
