@@ -1,7 +1,8 @@
 ### Hi, I' am Pedro Viana
 
 
-- 📚 I’m currently studying on Universidade Nove de Julho
-- 💻 I’m technical systems development on ETEC
+- 📚 I’m studying Analise e Desenvolvimento de Sistemas on Universidade Nove de Julho em São Paulo
+- 💻 Technical systems development on ETEC
 - ⚡ Fun fact: Músico 🎻🎹
 
+> ---------------------------------------------------------------------------------------------------
